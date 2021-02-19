@@ -36,6 +36,7 @@ if correct_number != "yes":
 	phone_number = int(input("Enter your phone number again: ")) # 20
 	print(f"Updated phone number: {phone_number}")
 # We want to ask the user if they want takeout or delivery 
+d_or_t = input("Do you want to order Takeout or Delivery? ")
 
 # We want to ask what cuisine they want
 
